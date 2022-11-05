@@ -5,4 +5,4 @@
 - JavaScript
 - Webpack
 
-You can see the result here: [GitHub Pages](https://yevhenmedovnyk.github.io/Coffy_page_portfolio/)
+You can see the result here: [GitHub Pages](https://yevhenmedovnyk.github.io/Coffy_page/)
